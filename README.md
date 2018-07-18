@@ -2,20 +2,20 @@
 
 Thanks for your interest in joining our team! This challenge is a simple test for us to evaluate your technical abilities in advance of meeting in person.
 
-Your objective is to create a mini timeline app. Detailed requirements are below. You may use the picture below as a design reference (though are in no way bound by its design):
+Your objective is to create a mini timeline page. Detailed requirements are below. You may use the picture below as a design reference (though are in no way bound by its design):
 
 ![design reference](./design-reference.png)
 
 ## Key requirements
-- Build reusable components for cards and buttons;
+- Build **reusable components** for cards and buttons;
 - When clicking `Submit Log` button in the form, a new log will be added to the list of cards below;
 - Each timeline item contains a title, a message and a formatted date like in the picture;
-- You should fork this repository and implement you solution inside the repo. Please provide a README file with instructions on how to run your app locally.
+- You can use an online editor like [CodeSandbox](https://codesandbox.io/) for example or fork this repository and implement you solution inside the repo. Please provide a README file with instructions on how to run your app locally.
 
 ## Hints
 - You can use any of these three frameworks to build your app: Vue, React or Angular;
 - You can use static data or generate it yourself. No need to request it from an API;
-- You may use a 3rd party library (for example, moment.js).
+- You may use a 3rd party library (for example, date-fns).
 - Please treat the design reference as a wireframe. Feel free to use you own design sense to improve the style.
 
 ## Bonus Points
